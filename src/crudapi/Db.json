@@ -1,0 +1,29 @@
+{
+  "jugadores": [
+    {
+      "id": 2,
+      "name": "Pele",
+      "position": "Forwardss"
+    },
+    {
+      "id": 3,
+      "name": "Messi",
+      "position": "Forward"
+    },
+    {
+      "id": 4,
+      "name": "Cruyff",
+      "position": "Advanced Midfielder"
+    },
+    {
+      "id": 5,
+      "name": "Beckenbauer",
+      "position": "Central defender"
+    },
+    {
+      "name": "Maradona",
+      "position": "Advanced midfielder",
+      "id": 6
+    }
+  ]
+}
