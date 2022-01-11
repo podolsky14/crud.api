@@ -45,7 +45,7 @@ setDb(newData)})}
 
   return (
     <div>
-      <h1>CRUD API CON SERVER JSON</h1>
+      <h1>CRUD API CON FETCH</h1>
       <Form createData={createData} setdataToEdit={setdataToEdit} dataToEdit={dataToEdit} updateData={updateData}/> <br/>
       <Table deleteData={deleteData} setdataToEdit={setdataToEdit} data={Db}/>
     </div>

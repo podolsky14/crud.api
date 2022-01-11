@@ -1,28 +1,28 @@
 {
   "jugadores": [
     {
-      "id": 2,
-      "name": "Pele",
-      "position": "Forwardss"
-    },
-    {
-      "id": 3,
       "name": "Messi",
-      "position": "Forward"
+      "position": "forwardasddsasda",
+      "id": 2
     },
     {
-      "id": 4,
-      "name": "Cruyff",
-      "position": "Advanced Midfielder"
-    },
-    {
-      "id": 5,
-      "name": "Beckenbauer",
-      "position": "Central defender"
+      "name": "Pele",
+      "position": "forward",
+      "id": 3
     },
     {
       "name": "Maradona",
       "position": "Advanced midfielder",
+      "id": 4
+    },
+    {
+      "name": "Cruyff",
+      "position": "Advanced midfielder",
+      "id": 5
+    },
+    {
+      "name": "Di Stefano",
+      "position": "Forward",
       "id": 6
     }
   ]

@@ -1,18 +1,2 @@
 
 
-.light {
-  margin: 2rem auto;
-  padding: 1rem;
-  width: 70%;
-  background-color: rgba(255, 255, 255, 0.911);
-  border: red solid 3px;
-}
-
-.dark {
-  background-color: black;
-  color: white;
-  margin: 2rem auto;
-  padding: 1rem;
-  width: 70%;
-  border: red solid 3px;
-}

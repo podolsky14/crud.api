@@ -57,7 +57,7 @@ setDb(newData)
 
   return (
     <div>
-      <h1>CRUD CON VARIABLE DE BD</h1>
+      <h1>CRUD CON API FALSA</h1>
       <Form createData={createData} setdataToEdit={setdataToEdit} dataToEdit={dataToEdit} updateData={updateData}/> <br/>
       <Table deleteData={deleteData} setdataToEdit={setdataToEdit} data={Db}/>
       

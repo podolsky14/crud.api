@@ -1,19 +1,18 @@
 import './App.css';
-import Crud from './crudnormal/Crud';
 import CrudApi from './crudapi/CrudApi';
+import CrudApiAxios from './crudapiconaxios/CrudApiAxios';
+import Crud from './crudnormal/Crud';
 
 
-function App() {
+
+export default function App() {
   return (
-  <>
-<CrudApi/>
-<br/><br/>
+    <>
+<CrudApiAxios/><br/>
+<CrudApi/><br/>
 <Crud/>
-  
+</>
 
-
-  </>
-  );
+  )
 }
 
-export default App;
