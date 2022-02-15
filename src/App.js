@@ -5,12 +5,13 @@ import Crud from './crudnormal/Crud';
 
 
 
+
 export default function App() {
   return (
     <>
-<CrudApiAxios/><br/>
+<Crud/><br/>
 <CrudApi/><br/>
-<Crud/>
+<CrudApiAxios/>
 </>
 
   )

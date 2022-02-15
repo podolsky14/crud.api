@@ -2,7 +2,7 @@
   "jugadores": [
     {
       "name": "Messi",
-      "position": "forwardasddsasda",
+      "position": "forward",
       "id": 2
     },
     {
@@ -21,8 +21,8 @@
       "id": 5
     },
     {
-      "name": "Di Stefano",
-      "position": "Forward",
+      "name": "Beckenbauer",
+      "position": "Defense",
       "id": 6
     }
   ]
